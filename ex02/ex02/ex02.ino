@@ -18,5 +18,4 @@ void loop() {
     Serial.print("LED状态更新：");
     Serial.println(ledState ? "ON" : "OFF");
   }
-  // 此处可添加其他并行任务，不会被闪烁阻塞
 }
