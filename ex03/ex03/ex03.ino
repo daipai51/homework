@@ -1,5 +1,4 @@
 const int ledPin = 2;
-
 // 时间参数定义
 const unsigned long shortOn = 200;    // 短亮时长 S
 const unsigned long longOn = 600;     // 长亮时长 O
